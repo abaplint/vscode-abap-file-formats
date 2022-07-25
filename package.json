@@ -20,7 +20,6 @@
   "engines": {
     "vscode": "^1.37.1"
   },
-  "activationEvents": [],
   "contributes": {
     "commands": [],
     "jsonValidation": [
