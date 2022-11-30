@@ -24,112 +24,124 @@
     "commands": [],
     "jsonValidation": [
       {
+        "fileMatch": "*.aobj.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aobj/aobj-v1.json"
+      },
+      {
         "fileMatch": "*.apic.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/apic/apic-v1.json"
-      },
-      {
-        "fileMatch": "*.chdo.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chdo/chdo-v1.json"
-      },
-      {
-        "fileMatch": "*.chko.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chko/chko-v1.json"
-      },
-      {
-        "fileMatch": "*.clas.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/clas/clas-v1.json"
-      },
-      {
-        "fileMatch": "*.ddlx.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddlx/ddlx-v1.json"
-      },
-      {
-        "fileMatch": "*.doma.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/doma/doma-v1.json"
-      },
-      {
-        "fileMatch": "*.eeec.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/eeec/eeec-v1.json"
-      },
-      {
-        "fileMatch": "*.enhs.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/enhs/enhs-v1.json"
-      },
-      {
-        "fileMatch": "*.fugr.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/fugr/fugr-v1.json"
-      },
-      {
-        "fileMatch": "*.intf.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/intf/intf-v1.json"
-      },
-      {
-        "fileMatch": "*.ront.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ront/ront-v1.json"
-      },
-      {
-        "fileMatch": "*.sajt.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sajt/sajt-v1.json"
-      },
-      {
-        "fileMatch": "*.smbc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/smbc/smbc-v1.json"
-      },
-      {
-        "fileMatch": "*.srvb.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvb/srvb-v1.json"
       },
       {
         "fileMatch": "*.aplo.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aplo/aplo-v1.json"
       },
       {
+        "fileMatch": "*.cfdf.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cfdf/cfdf-v1.json"
+      },
+      {
+        "fileMatch": "*.chdo.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chdo/chdo-v1.json"
+      },
+      {
         "fileMatch": "*.chkc.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chkc/chkc-v1.json"
+      },
+      {
+        "fileMatch": "*.chko.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chko/chko-v1.json"
       },
       {
         "fileMatch": "*.chkv.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chkv/chkv-v1.json"
       },
       {
+        "fileMatch": "*.clas.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/clas/clas-v1.json"
+      },
+      {
         "fileMatch": "*.ddls.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddls/ddls-v1.json"
+      },
+      {
+        "fileMatch": "*.ddlx.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddlx/ddlx-v1.json"
       },
       {
         "fileMatch": "*.dmon.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dmon/dmon-v1.json"
       },
       {
+        "fileMatch": "*.doma.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/doma/doma-v1.json"
+      },
+      {
         "fileMatch": "*.dsfi.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dsfi/dsfi-v1.json"
+      },
+      {
+        "fileMatch": "*.eeec.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/eeec/eeec-v1.json"
       },
       {
         "fileMatch": "*.enho.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/enho/enho-v1.json"
       },
       {
+        "fileMatch": "*.enhs.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/enhs/enhs-v1.json"
+      },
+      {
         "fileMatch": "*.evtb.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/evtb/evtb-v1.json"
+      },
+      {
+        "fileMatch": "*.fugr.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/fugr/fugr-v1.json"
       },
       {
         "fileMatch": "*.gsmp.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/gsmp/gsmp-v1.json"
       },
       {
+        "fileMatch": "*.intf.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/intf/intf-v1.json"
+      },
+      {
         "fileMatch": "*.nrob.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/nrob/nrob-v1.json"
+      },
+      {
+        "fileMatch": "*.ront.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ront/ront-v1.json"
       },
       {
         "fileMatch": "*.sajc.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sajc/sajc-v1.json"
       },
       {
+        "fileMatch": "*.sajt.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sajt/sajt-v1.json"
+      },
+      {
         "fileMatch": "*.scp1.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/scp1/scp1-v1.json"
       },
       {
+        "fileMatch": "*.sito.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sito/sito-v1.json"
+      },
+      {
+        "fileMatch": "*.smbc.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/smbc/smbc-v1.json"
+      },
+      {
         "fileMatch": "*.sprv.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sprv/sprv-v1.json"
+      },
+      {
+        "fileMatch": "*.srvb.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvb/srvb-v1.json"
       }
     ],
     "viewsContainers": {
