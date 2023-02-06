@@ -76,8 +76,20 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/doma/doma-v1.json"
       },
       {
+        "fileMatch": "*.drty.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/drty/drty-v1.json"
+      },
+      {
         "fileMatch": "*.dsfi.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dsfi/dsfi-v1.json"
+      },
+      {
+        "fileMatch": "*.dtdc.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dtdc/dtdc-v1.json"
+      },
+      {
+        "fileMatch": "*.dteb.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dteb/dteb-v1.json"
       },
       {
         "fileMatch": "*.eeec.json",
@@ -108,8 +120,20 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/intf/intf-v1.json"
       },
       {
+        "fileMatch": "*.nont.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/nont/nont-v1.json"
+      },
+      {
         "fileMatch": "*.nrob.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/nrob/nrob-v1.json"
+      },
+      {
+        "fileMatch": "*.ntta.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ntta/ntta-v1.json"
+      },
+      {
+        "fileMatch": "*.ntty.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ntty/ntty-v1.json"
       },
       {
         "fileMatch": "*.ront.json",
