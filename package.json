@@ -36,6 +36,14 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aplo/aplo-v1.json"
       },
       {
+        "fileMatch": "*.bgqc.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/bgqc/bgqc-v1.json"
+      },
+      {
+        "fileMatch": "*.cdbo.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cdbo/cdbo-v1.json"
+      },
+      {
         "fileMatch": "*.cfdf.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cfdf/cfdf-v1.json"
       },
@@ -70,6 +78,10 @@
       {
         "fileMatch": "*.dmon.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dmon/dmon-v1.json"
+      },
+      {
+        "fileMatch": "*.dobj.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dobj/dobj-v1.json"
       },
       {
         "fileMatch": "*.doma.json",
@@ -166,6 +178,10 @@
       {
         "fileMatch": "*.srvb.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvb/srvb-v1.json"
+      },
+      {
+        "fileMatch": "*.uist.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uist/uist-v1.json"
       }
     ],
     "viewsContainers": {
