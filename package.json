@@ -180,6 +180,18 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvb/srvb-v1.json"
       },
       {
+        "fileMatch": "*.srvc.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvc/srvc-v1.json"
+      },
+      {
+        "fileMatch": "*.susi.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/susi/susi-v1.json"
+      },
+      {
+        "fileMatch": "*.swcr.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/swcr/swcr-v1.json"
+      },
+      {
         "fileMatch": "*.uist.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uist/uist-v1.json"
       }
