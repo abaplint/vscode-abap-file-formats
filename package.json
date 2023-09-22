@@ -68,6 +68,10 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/clas/clas-v1.json"
       },
       {
+        "fileMatch": "*.cota.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cota/cota-v1.json"
+      },
+      {
         "fileMatch": "*.ddls.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddls/ddls-v1.json"
       },
