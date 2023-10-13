@@ -21,4 +21,4 @@ for (const t of types) {
   });
 }
 
-fs.writeFileSync(filename, JSON.stringify(pack, null, 2))
+fs.writeFileSync(filename, JSON.stringify(pack, null, 2));
