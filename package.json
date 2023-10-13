@@ -72,6 +72,10 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cota/cota-v1.json"
       },
       {
+        "fileMatch": "*.csnm.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/csnm/csnm-v1.json"
+      },
+      {
         "fileMatch": "*.ddls.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddls/ddls-v1.json"
       },
@@ -130,6 +134,10 @@
       {
         "fileMatch": "*.gsmp.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/gsmp/gsmp-v1.json"
+      },
+      {
+        "fileMatch": "*.ilmb.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ilmb/ilmb-v1.json"
       },
       {
         "fileMatch": "*.intf.json",
@@ -194,6 +202,10 @@
       {
         "fileMatch": "*.swcr.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/swcr/swcr-v1.json"
+      },
+      {
+        "fileMatch": "*.uipg.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uipg/uipg-v1.json"
       },
       {
         "fileMatch": "*.uist.json",

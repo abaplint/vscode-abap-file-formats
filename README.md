@@ -1,4 +1,3 @@
 # vscode-abap-file-formats
-vscode-abap-file-formats
 
-experimental, validation
+Validate [abap-file-format](https://github.com/SAP/abap-file-formats) files against the corresponding JSON Schemas.
