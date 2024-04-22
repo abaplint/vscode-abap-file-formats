@@ -176,6 +176,10 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/scp1/scp1-v1.json"
       },
       {
+        "fileMatch": "*.siad.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/siad/siad-v1.json"
+      },
+      {
         "fileMatch": "*.sito.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sito/sito-v1.json"
       },
