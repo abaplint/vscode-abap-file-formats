@@ -24,6 +24,10 @@
     "commands": [],
     "jsonValidation": [
       {
+        "fileMatch": "*.aifd.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aifd/aifd-v1.json"
+      },
+      {
         "fileMatch": "*.aobj.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aobj/aobj-v1.json"
       },
@@ -34,6 +38,10 @@
       {
         "fileMatch": "*.aplo.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aplo/aplo-v1.json"
+      },
+      {
+        "fileMatch": "*.apob.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/apob/apob-v1.json"
       },
       {
         "fileMatch": "*.bgqc.json",
@@ -74,6 +82,10 @@
       {
         "fileMatch": "*.csnm.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/csnm/csnm-v1.json"
+      },
+      {
+        "fileMatch": "*.dcat.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dcat/dcat-v1.json"
       },
       {
         "fileMatch": "*.ddls.json",
@@ -176,6 +188,10 @@
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/scp1/scp1-v1.json"
       },
       {
+        "fileMatch": "*.sfpf.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sfpf/sfpf-v1.json"
+      },
+      {
         "fileMatch": "*.siad.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/siad/siad-v1.json"
       },
@@ -206,6 +222,10 @@
       {
         "fileMatch": "*.swcr.json",
         "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/swcr/swcr-v1.json"
+      },
+      {
+        "fileMatch": "*.uiad.json",
+        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uiad/uiad-v1.json"
       },
       {
         "fileMatch": "*.uipg.json",
