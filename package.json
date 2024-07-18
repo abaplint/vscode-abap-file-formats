@@ -25,215 +25,215 @@
     "jsonValidation": [
       {
         "fileMatch": "*.aifd.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aifd/aifd-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifd.json"
       },
       {
         "fileMatch": "*.aobj.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aobj/aobj-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aobj.json"
       },
       {
         "fileMatch": "*.apic.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/apic/apic-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/apic.json"
       },
       {
         "fileMatch": "*.aplo.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/aplo/aplo-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aplo.json"
       },
       {
         "fileMatch": "*.apob.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/apob/apob-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/apob.json"
       },
       {
         "fileMatch": "*.bgqc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/bgqc/bgqc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/bgqc.json"
       },
       {
         "fileMatch": "*.cdbo.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cdbo/cdbo-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/cdbo.json"
       },
       {
         "fileMatch": "*.cfdf.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cfdf/cfdf-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/cfdf.json"
       },
       {
         "fileMatch": "*.chdo.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chdo/chdo-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chdo.json"
       },
       {
         "fileMatch": "*.chkc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chkc/chkc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chkc.json"
       },
       {
         "fileMatch": "*.chko.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chko/chko-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chko.json"
       },
       {
         "fileMatch": "*.chkv.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/chkv/chkv-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chkv.json"
       },
       {
         "fileMatch": "*.clas.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/clas/clas-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/clas.json"
       },
       {
         "fileMatch": "*.cota.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/cota/cota-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/cota.json"
       },
       {
         "fileMatch": "*.csnm.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/csnm/csnm-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/csnm.json"
       },
       {
         "fileMatch": "*.dcat.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dcat/dcat-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dcat.json"
       },
       {
         "fileMatch": "*.ddls.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddls/ddls-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ddls.json"
       },
       {
         "fileMatch": "*.ddlx.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ddlx/ddlx-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ddlx.json"
       },
       {
         "fileMatch": "*.dmon.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dmon/dmon-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dmon.json"
       },
       {
         "fileMatch": "*.dobj.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dobj/dobj-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dobj.json"
       },
       {
         "fileMatch": "*.doma.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/doma/doma-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/doma.json"
       },
       {
         "fileMatch": "*.drty.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/drty/drty-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/drty.json"
       },
       {
         "fileMatch": "*.dsfi.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dsfi/dsfi-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dsfi.json"
       },
       {
         "fileMatch": "*.dtdc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dtdc/dtdc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dtdc.json"
       },
       {
         "fileMatch": "*.dteb.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/dteb/dteb-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dteb.json"
       },
       {
         "fileMatch": "*.eeec.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/eeec/eeec-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/eeec.json"
       },
       {
         "fileMatch": "*.enho.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/enho/enho-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/enho.json"
       },
       {
         "fileMatch": "*.enhs.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/enhs/enhs-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/enhs.json"
       },
       {
         "fileMatch": "*.evtb.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/evtb/evtb-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/evtb.json"
       },
       {
         "fileMatch": "*.fugr.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/fugr/fugr-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/fugr.json"
       },
       {
         "fileMatch": "*.gsmp.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/gsmp/gsmp-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/gsmp.json"
       },
       {
         "fileMatch": "*.ilmb.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ilmb/ilmb-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ilmb.json"
       },
       {
         "fileMatch": "*.intf.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/intf/intf-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/intf.json"
       },
       {
         "fileMatch": "*.nont.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/nont/nont-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/nont.json"
       },
       {
         "fileMatch": "*.nrob.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/nrob/nrob-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/nrob.json"
       },
       {
         "fileMatch": "*.ntta.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ntta/ntta-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ntta.json"
       },
       {
         "fileMatch": "*.ntty.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ntty/ntty-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ntty.json"
       },
       {
         "fileMatch": "*.ront.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/ront/ront-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ront.json"
       },
       {
         "fileMatch": "*.sajc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sajc/sajc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sajc.json"
       },
       {
         "fileMatch": "*.sajt.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sajt/sajt-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sajt.json"
       },
       {
         "fileMatch": "*.scp1.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/scp1/scp1-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/scp1.json"
       },
       {
         "fileMatch": "*.sfpf.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sfpf/sfpf-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sfpf.json"
       },
       {
         "fileMatch": "*.siad.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/siad/siad-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/siad.json"
       },
       {
         "fileMatch": "*.sito.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sito/sito-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sito.json"
       },
       {
         "fileMatch": "*.smbc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/smbc/smbc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/smbc.json"
       },
       {
         "fileMatch": "*.sprv.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/sprv/sprv-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sprv.json"
       },
       {
         "fileMatch": "*.srvb.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvb/srvb-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/srvb.json"
       },
       {
         "fileMatch": "*.srvc.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/srvc/srvc-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/srvc.json"
       },
       {
         "fileMatch": "*.susi.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/susi/susi-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/susi.json"
       },
       {
         "fileMatch": "*.swcr.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/swcr/swcr-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/swcr.json"
       },
       {
         "fileMatch": "*.uiad.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uiad/uiad-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/uiad.json"
       },
       {
         "fileMatch": "*.uipg.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uipg/uipg-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/uipg.json"
       },
       {
         "fileMatch": "*.uist.json",
-        "url": "https://raw.githubusercontent.com/SAP/abap-file-formats/main/file-formats/uist/uist-v1.json"
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/uist.json"
       }
     ],
     "viewsContainers": {
