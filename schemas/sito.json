@@ -1905,13 +1905,13 @@
     }
   },
   "properties": {
-    "version": {
+    "formatVersion": {
       "type": "number"
     }
   },
   "if": {
     "properties": {
-      "version": {
+      "formatVersion": {
         "const": 1
       }
     }
@@ -1922,7 +1922,7 @@
   "else": {
     "if": {
       "properties": {
-        "version": {
+        "formatVersion": {
           "const": 2
         }
       }
