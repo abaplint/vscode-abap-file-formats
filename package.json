@@ -28,6 +28,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifd.json"
       },
       {
+        "fileMatch": "*.aifr.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifr.json"
+      },
+      {
         "fileMatch": "*.aobj.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aobj.json"
       },

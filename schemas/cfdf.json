@@ -1489,13 +1489,13 @@
   },
   "properties": {
     "formatVersion": {
-      "type": "number"
+      "type": "string"
     }
   },
   "if": {
     "properties": {
       "formatVersion": {
-        "const": 1
+        "const": "1"
       }
     }
   },
@@ -1506,7 +1506,7 @@
     "if": {
       "properties": {
         "formatVersion": {
-          "const": 2
+          "const": "2"
         }
       }
     },

@@ -53,13 +53,13 @@ for (const t of types) {
       },
       "properties": {
         "formatVersion": {
-          "type": "number"
+          "type": "string"
         }
       },
       "if": {
         "properties": {
           "formatVersion": {
-            "const": 1
+            "const": "1"
           }
         }
       },
@@ -70,7 +70,7 @@ for (const t of types) {
         "if": {
           "properties": {
             "formatVersion": {
-              "const": 2
+              "const": "2"
             }
           }
         },
