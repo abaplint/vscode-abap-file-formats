@@ -96,7 +96,8 @@
         "Extensions for data sources",
         "Custom search modeler",
         "Service Consumption Model"
-      ]
+      ],
+      "default": "abapDevelopmentTools"
     },
     "sourceType": {
       "title": "Source Type",
@@ -112,7 +113,9 @@
         "abstractEntity",
         "customEntity",
         "hierarchy",
-        "projectionView"
+        "projectionView",
+        "externalEntity",
+        "unknown"
       ],
       "enumTitles": [
         "DDIC-Based View",
@@ -124,7 +127,9 @@
         "Abstract Entity",
         "Custom Entity",
         "Hierarchy",
-        "Projection View"
+        "Projection View",
+        "External Entity",
+        "Unknown"
       ],
       "enumDescriptions": [
         "DDIC-based view",
@@ -136,8 +141,11 @@
         "Abstract entity",
         "Custom entity",
         "Hierarchy",
-        "Projection view"
-      ]
+        "Projection view",
+        "External entity",
+        "Unknown"
+      ],
+      "default": "unknown"
     },
     "parentName": {
       "title": "Parent Name",
