@@ -24,8 +24,32 @@
     "commands": [],
     "jsonValidation": [
       {
+        "fileMatch": "*.advc.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/advc.json"
+      },
+      {
+        "fileMatch": "*.aifa.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifa.json"
+      },
+      {
         "fileMatch": "*.aifd.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifd.json"
+      },
+      {
+        "fileMatch": "*.aiff.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aiff.json"
+      },
+      {
+        "fileMatch": "*.aifi.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifi.json"
+      },
+      {
+        "fileMatch": "*.aifn.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifn.json"
+      },
+      {
+        "fileMatch": "*.aifp.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/aifp.json"
       },
       {
         "fileMatch": "*.aifr.json",
@@ -92,12 +116,24 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dcat.json"
       },
       {
+        "fileMatch": "*.dcls.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dcls.json"
+      },
+      {
+        "fileMatch": "*.ddla.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ddla.json"
+      },
+      {
         "fileMatch": "*.ddls.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ddls.json"
       },
       {
         "fileMatch": "*.ddlx.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ddlx.json"
+      },
+      {
+        "fileMatch": "*.desd.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/desd.json"
       },
       {
         "fileMatch": "*.dmon.json",
@@ -112,8 +148,16 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/doma.json"
       },
       {
+        "fileMatch": "*.dras.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dras.json"
+      },
+      {
         "fileMatch": "*.drty.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/drty.json"
+      },
+      {
+        "fileMatch": "*.dsfd.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dsfd.json"
       },
       {
         "fileMatch": "*.dsfi.json",
@@ -126,6 +170,22 @@
       {
         "fileMatch": "*.dteb.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dteb.json"
+      },
+      {
+        "fileMatch": "*.edcc.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/edcc.json"
+      },
+      {
+        "fileMatch": "*.edck.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/edck.json"
+      },
+      {
+        "fileMatch": "*.edcr.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/edcr.json"
+      },
+      {
+        "fileMatch": "*.edoi.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/edoi.json"
       },
       {
         "fileMatch": "*.eeec.json",
@@ -144,6 +204,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/evtb.json"
       },
       {
+        "fileMatch": "*.evto.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/evto.json"
+      },
+      {
         "fileMatch": "*.fugr.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/fugr.json"
       },
@@ -152,12 +216,28 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/gsmp.json"
       },
       {
+        "fileMatch": "*.http.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/http.json"
+      },
+      {
         "fileMatch": "*.ilmb.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ilmb.json"
       },
       {
         "fileMatch": "*.intf.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/intf.json"
+      },
+      {
+        "fileMatch": "*.intm.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/intm.json"
+      },
+      {
+        "fileMatch": "*.ints.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ints.json"
+      },
+      {
+        "fileMatch": "*.msag.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/msag.json"
       },
       {
         "fileMatch": "*.nont.json",
@@ -178,6 +258,14 @@
       {
         "fileMatch": "*.ront.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ront.json"
+      },
+      {
+        "fileMatch": "*.rvbc.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/rvbc.json"
+      },
+      {
+        "fileMatch": "*.saia.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/saia.json"
       },
       {
         "fileMatch": "*.sajc.json",
@@ -208,6 +296,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/smbc.json"
       },
       {
+        "fileMatch": "*.smtg.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/smtg.json"
+      },
+      {
         "fileMatch": "*.sprv.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sprv.json"
       },
@@ -220,12 +312,24 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/srvc.json"
       },
       {
+        "fileMatch": "*.srvd.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/srvd.json"
+      },
+      {
+        "fileMatch": "*.suco.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/suco.json"
+      },
+      {
         "fileMatch": "*.susi.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/susi.json"
       },
       {
         "fileMatch": "*.swcr.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/swcr.json"
+      },
+      {
+        "fileMatch": "*.sxtg.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sxtg.json"
       },
       {
         "fileMatch": "*.uiad.json",
