@@ -264,6 +264,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ntty.json"
       },
       {
+        "fileMatch": "*.prog.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/prog.json"
+      },
+      {
         "fileMatch": "*.ront.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ront.json"
       },
