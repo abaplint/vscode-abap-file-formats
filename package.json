@@ -176,6 +176,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dteb.json"
       },
       {
+        "fileMatch": "*.dtix.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dtix.json"
+      },
+      {
         "fileMatch": "*.dtsc.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dtsc.json"
       },
@@ -206,6 +210,10 @@
       {
         "fileMatch": "*.enhs.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/enhs.json"
+      },
+      {
+        "fileMatch": "*.enqu.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/enqu.json"
       },
       {
         "fileMatch": "*.evtb.json",
