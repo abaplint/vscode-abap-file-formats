@@ -96,6 +96,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chkc.json"
       },
       {
+        "fileMatch": "*.chke.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chke.json"
+      },
+      {
         "fileMatch": "*.chko.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/chko.json"
       },
@@ -176,6 +180,10 @@
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dteb.json"
       },
       {
+        "fileMatch": "*.dtel.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dtel.json"
+      },
+      {
         "fileMatch": "*.dtix.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/dtix.json"
       },
@@ -250,6 +258,10 @@
       {
         "fileMatch": "*.ints.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/ints.json"
+      },
+      {
+        "fileMatch": "*.iwng.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/iwng.json"
       },
       {
         "fileMatch": "*.msag.json",
@@ -350,6 +362,18 @@
       {
         "fileMatch": "*.sxtg.json",
         "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/sxtg.json"
+      },
+      {
+        "fileMatch": "*.tabl.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/tabl.json"
+      },
+      {
+        "fileMatch": "*.tran.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/tran.json"
+      },
+      {
+        "fileMatch": "*.type.json",
+        "url": "https://raw.githubusercontent.com/abaplint/vscode-abap-file-formats/main/schemas/type.json"
       },
       {
         "fileMatch": "*.uiad.json",
